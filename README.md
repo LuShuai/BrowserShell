@@ -9,7 +9,7 @@ structure
             --> interface // the interface of the shell
  
             |
-            --> commands // custermizable commands files
+            --> commands // customizable commands files
     
     
 
