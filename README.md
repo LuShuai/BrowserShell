@@ -3,16 +3,16 @@ BrowserShell
 
 structure
 ------------
-root
+        root
 
-    |
-    --> interface // the interface of the shell
+            |
+            --> interface // the interface of the shell
  
-    |
-    --> commands // custermizable commands files
+            |
+            --> commands // custermizable commands files
     
     
-    
-    **Imported and customised the layout files from this repo: https://github.com/SDA/terminal
+
+**Imported and customised the layout files from this repo: https://github.com/SDA/terminal
 
 
